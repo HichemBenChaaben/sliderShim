@@ -1,0 +1,20 @@
+{
+  "name": "sliderShim",
+  "version": "0.0.0",
+  "authors": [
+    "HichemBenChaaben <napsterisamm@hotmail.fr>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "webshim": "~1.15.8",
+    "angular-mocks": "~1.4.1"
+  }
+}

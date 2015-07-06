@@ -1,0 +1,1 @@
+"use strict";define(["swapp"],function(s){s.registerConstant("swAppConstants",{RELEASE_VERSION:0,GRID_ROWS_NUM:10,GRID_PAGINATION_SIZE:[10,15,20,35]})});

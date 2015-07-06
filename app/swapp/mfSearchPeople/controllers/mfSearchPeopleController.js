@@ -1,0 +1,1 @@
+define(["swapp"],function(e){e.registerController("mfSearchPeopleController",["$scope","$state","$rootScope","$http",function(e,o,t,r){}])});

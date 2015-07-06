@@ -1,0 +1,1 @@
+define(["swapp"],function(t){t.registerController("mfSentEmailController",["$scope","$state","$rootScope","$http",function(t,e,o,n){}])});

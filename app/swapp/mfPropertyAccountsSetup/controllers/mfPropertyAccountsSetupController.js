@@ -1,0 +1,1 @@
+define(["swapp"],function(n){n.registerController("mfPropertyAccountsSetupController",["$scope",function(n){n.account={},n.setupCheckPrinting=function(){},n.eReconcile=function(){},n.viewHistory=function(){}}])});

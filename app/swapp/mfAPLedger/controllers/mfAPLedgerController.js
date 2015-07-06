@@ -1,0 +1,1 @@
+define(["swapp"],function(e){e.registerController("mfAPLedgerController",["$scope","$state","$rootScope","$http",function(e,o,t,r){}])});

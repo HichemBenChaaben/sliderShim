@@ -1,0 +1,1 @@
+define(["swapp","ui-bootstrap","alert-factory"],function(t){"use strict";t.registerDirective("swAlert",["$rootScope","alertFactory",function(t,e){return{templateUrl:"/swapp/directives/alert-notification/alert-directive.tpl.html",restrict:"E",link:function(r,i,l){r.alerts=t.alerts,t.closeAlert=e.closeAlert}}}])});

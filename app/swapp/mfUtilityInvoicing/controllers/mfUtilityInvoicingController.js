@@ -1,0 +1,1 @@
+define(["swapp"],function(t){t.registerController("mfUtilityInvoicingController",["$scope","$state","$rootScope","$http",function(t,o,e,n){}])});

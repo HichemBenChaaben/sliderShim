@@ -1,0 +1,1 @@
+define(["swapp"],function(o){o.registerController("mfComposeEmailController",["$scope","$state","$rootScope","$http",function(o,e,t,n){}])});

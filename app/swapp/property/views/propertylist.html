@@ -1,0 +1,1 @@
+<div><ui-select theme="bootstrap" ng-model="propertySelected" on-select="updateProperty($item)"><ui-select-match placeholder="Select Property">{{propertySelected.strataname}}</ui-select-match><ui-select-choices repeat="option in propertyList | filter:$select.search"><strong>({{option.planno}}) {{option.strataname}}</strong></ui-select-choices></ui-select></div>

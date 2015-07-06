@@ -1,0 +1,1 @@
+define(["swapp"],function(o){o.registerController("mfMyTasksController",["$scope","$state","$rootScope","$http",function(o,t,e,n){}])});

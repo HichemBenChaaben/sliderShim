@@ -1,0 +1,1 @@
+define(["swapp"],function(e){e.registerController("mfGeneralLedgersController",["$scope","$state","$rootScope",function(e,o,r){}])});

@@ -1,0 +1,1 @@
+"use strict";define(["swapp","/swapp/home/services/homeService.js"],function(e){e.registerFilter("i18n",function(e){return function(r){var n=e.getTranslations(),t=n;return t.hasOwnProperty(r)?t[r]:r}})});

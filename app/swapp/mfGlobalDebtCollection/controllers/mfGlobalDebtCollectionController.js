@@ -1,0 +1,1 @@
+define(["swapp"],function(o){o.registerController("mfGlobalDebtCollectionontroller",["$scope","$state","$rootScope","$http",function(o,t,e,l){}])});

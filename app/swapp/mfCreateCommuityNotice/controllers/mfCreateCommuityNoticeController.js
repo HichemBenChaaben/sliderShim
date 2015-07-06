@@ -1,0 +1,1 @@
+define(["swapp"],function(t){t.registerController("mfCreateCommuityNoticeController",["$scope","$state","$rootScope","$http",function(t,e,o,r){}])});

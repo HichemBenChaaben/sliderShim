@@ -1,0 +1,1 @@
+define(["swapp"],function(t){t.registerFactory("alertFactory",function(t,e){var r={};return e.alerts=[],r.add=function(n,s,c){e.alerts.push({type:n,msg:s,close:function(){return r.closeAlert(this)}}),c&&t(function(){r.closeAlert(this)},c)},r.closeAlert=function(t){e.alerts.splice(t,1)},r})});

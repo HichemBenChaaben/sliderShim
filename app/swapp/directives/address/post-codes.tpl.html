@@ -1,0 +1,1 @@
+<div><input type="text"fl-labelplaceholder="{{placeholder}}"ng-model="postCodes.model"ng-keyup="refreshPostCodes(3)"><div class="search-suggestions-dropdown" ng-show="showResults && addresses.length"><div class="search-suggestion-item"ng-repeat="address in addresses | limitTo:10"ng-click="updatePostCodeItem(address)">{{address.locality}} ({{address.pc}})</div></div></div>

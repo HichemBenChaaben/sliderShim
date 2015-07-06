@@ -1,0 +1,1 @@
+swapp.registerController("dashboardController",[function(){}]);

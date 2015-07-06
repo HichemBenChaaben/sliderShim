@@ -1,0 +1,1 @@
+define(["swapp"],function(o){o.registerController("mfWorkOrderController",["$scope","$state","$rootScope","$http",function(o,e,r,t){}])});

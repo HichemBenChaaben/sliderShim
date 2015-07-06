@@ -1,0 +1,1 @@
+!function(n){"use strict";function a(n,a){var r=this;r.formData={nn:4,tt:"hello"},r.pLang="LTR",r.pDir="ltr",a.pLang=r.pLang,a.pDir=r.pDir,n.doSomething=function(){return!0},r.changeLanguage=function(){a.pLang=r.Plang,a.pDir=r.pDir}}var r=angular.module("app",["app.rangeSliderShim"]);r.controller("Main",a),a.$inject=["$scope","$rootScope"]}(window);

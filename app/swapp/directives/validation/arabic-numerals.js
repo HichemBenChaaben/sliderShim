@@ -1,0 +1,1 @@
+define(["swapp"],function(e){"use strict";e.registerDirective("arabicNumerals",function(){var e=/[\u0660-\u0669]/;return{require:"ngModel",link:function(r,i,n,t){t.$validators.integer=function(r,i){return e.test(i)?!1:!0}}}})});
